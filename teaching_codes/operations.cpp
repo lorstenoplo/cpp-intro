@@ -29,7 +29,7 @@ int main(){
     
     bool b1 = true, b2 = false;
     bool conditional_and = (b1 && b2); // AND OPERATOR
-    bool conditional_or = (b1 && b2); // OR OPERATOR
+    bool conditional_or = (b1 || b2); // OR OPERATOR
     bool conditional_xor = (b1 ^ b2); // XOR OPERATOR
     
     /* Comparison Operator */
